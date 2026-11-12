@@ -11,4 +11,4 @@ Anda Āriņa
 This is for learning purposes
 
 # Workflow
-This uses branches and commits\
+This uses branches and commits
