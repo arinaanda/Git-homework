@@ -5,3 +5,5 @@ for practising Git commits
 and another commit
 
 and also for practusing merge conlicts
+
+adding the last commit
