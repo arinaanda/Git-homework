@@ -1,1 +1,3 @@
 temporary notes
+
+for practising Git commits
