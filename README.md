@@ -3,3 +3,6 @@
 
 # Changes
 This is for git commits
+
+# Author
+Anda Āriņa
