@@ -1,2 +1,3 @@
 mode=dev
 language=python
+version=1.0
