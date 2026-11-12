@@ -1,3 +1,5 @@
 print("Hello Git")
 print("Version 2")
 print("I am practising git")
+name=input("Name: ")
+print(f"Hello {name})
